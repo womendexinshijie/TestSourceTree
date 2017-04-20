@@ -19,7 +19,11 @@
     // Override point for customization after application launch.
     
     
-    NSLog(@"asdadasdasdsda");
+    NSLog(@"虽然贵但是高大上的沙发沙发沙发沙发 ");
+    
+    NSLog(@"虽然贵但是高大上的沙发沙发沙发沙发 sdfddsfsdfsffgvnbvnvbn ");
+    
+    NSLog(@"xcvxvxv是高大上的沙发沙xcvxvx发沙发沙发 gnhvnnbvnvn ");
     
     return YES;
 }
